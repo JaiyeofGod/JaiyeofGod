@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=a371f7&center=true&vCenter=true&width=865&height=44&lines=Computer%20Science%20Student%20%7C%20Cybersecurity%20Research;U.S.%20Marine%20Corps%20Corporal%20%7C%20Former%20Bell%20Textron%20Intern" alt="Typing headlines" />
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=a371f7&center=true&vCenter=true&width=865&height=44&lines=Computer%20Science%20Student%20%7C%20Cybersecurity%20Researcher;U.S.%20Marine%20Corps%20Corporal%20%7C%20Former%20Bell%20Textron%20Intern" alt="Typing headlines" />
 </p>
 
 ### 🚀 About Me
